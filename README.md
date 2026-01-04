@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+DoanAnhQuan;Mathetics+Computer+Science+Student+%40+HCMUS;Future+Engineer+XD" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+DoanAnhQuan;Mathetics+Computer+Science+Student+%40+HCMUS;Future+AI+Engineer+XD" />
 </p>
 
 ---
@@ -16,7 +16,7 @@ I am an aspiring developer with a rigorous academic background, combining logica
 
 ### 🛠️ Technical Stack & Skills
 
-* **💻 Programming Languages:** Python, C, C++, SQL.
+* **💻 Programming Languages:** Python, C, C++, SQL, R.
 * **🧮 Mathematical Proficiency:** Calculus, Differential Equations, Linear Algebra, Probability & Statistics.
 * **⚙️ Computational Tools:** MATLAB, Maple, Prolog.
 * **🧠 Algorithmic Solving:** Active problem solver on **Codeforces, VNOI**, focusing on data structures and algorithm optimization.
