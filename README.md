@@ -51,4 +51,4 @@ When I'm not coding or solving equations, you can find me:
 * [LinkedIn](https://www.linkedin.com/in/anh-quân-đoàn-a497853a2/)
 * Email: [doananhquan26072005@gmail.com](doananhquan26072005@gmail.com)
 * [Facebook](https://www.facebook.com/doananhquan.2607)
-* CV: (https://drive.google.com/file/d/1jOeDzcy8ueYdIme8p6mJCcZNfxTOqEK4/view?usp=sharing)
+* CV: https://drive.google.com/file/d/1jOeDzcy8ueYdIme8p6mJCcZNfxTOqEK4/view?usp=sharing
