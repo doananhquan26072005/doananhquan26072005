@@ -18,7 +18,7 @@ I am an aspiring developer with a rigorous academic background, combining logica
 
 * **💻 Programming Languages:** Python, C, C++, SQL, R.
 * **🧮 Mathematical Proficiency:** Calculus, Differential Equations, Linear Algebra, Probability & Statistics.
-* **⚙️ Computational Tools:** MATLAB, Maple, Prolog.
+* **⚙️ Developer Tools & Technologies:** VS Code, Git, Docker, LaTeX, OpenCV, MATLAB, Prolog, Maple.
 * **🧠 Algorithmic Solving:** Active problem solver on **Codeforces, VNOI**, focusing on data structures and algorithm optimization.
 * **🤖 Models:** Experienced in applying various computational and mathematical models to real-world scenarios.
 
@@ -51,4 +51,4 @@ When I'm not coding or solving equations, you can find me:
 * [LinkedIn](https://www.linkedin.com/in/anh-quân-đoàn-a497853a2/)
 * Email: [doananhquan26072005@gmail.com](doananhquan26072005@gmail.com)
 * [Facebook](https://www.facebook.com/doananhquan.2607)
-
+* CV: (https://drive.google.com/file/d/1jOeDzcy8ueYdIme8p6mJCcZNfxTOqEK4/view?usp=sharing)
