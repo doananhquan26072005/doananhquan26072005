@@ -193,7 +193,6 @@ Ranked pairs of LLM responses on 6 quality criteria across 10+ domains to build 
   <a href="https://www.linkedin.com/in/anh-qu%C3%A2n-%C4%91o%C3%A0n-a497853a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:doananhquan26072005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.facebook.com/doananhquan.2607"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://drive.google.com/file/d/1jOeDzcy8ueYdIme8p6mJCcZNfxTOqEK4/view?usp=sharing"><img src="https://img.shields.io/badge/My_CV-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00F7FF&height=110&section=footer" alt="" />
