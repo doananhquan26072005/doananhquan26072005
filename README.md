@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=200&section=header&text=Doan%20Anh%20Quan&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Perception%20%C2%B7%20Computer%20Vision%20%C2%B7%20Data%20Science&descAlignY=58&descSize=18&animation=fadeIn" alt="Doan Anh Quan" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=200&section=header&text=Doan%20Anh%20Quan&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Perception&descAlignY=58&descSize=18&animation=fadeIn" alt="Doan Anh Quan" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=720&lines=Xin+chao!+I'm+Doan+Anh+Quan;Final-year+Math+%26+CS+student+%40+HCMUS;AI+Thuc+Chien+K4+-+Track+4%3A+Perception;Teaching+cameras+to+spot+sleepy+drivers;Professional+false-alarm+hunter;Open+to+internships%3A+Perception+%2F+CV+%2F+AI+Eng" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=720&lines=Xin+chao!+I'm+Doan+Anh+Quan;AI+Engineer+with+a+Computer+Vision+focus;AI+in+Action+K4+-+Track+4%3A+Perception;Teaching+cameras+to+spot+sleepy+drivers;Professional+false-alarm+hunter;Open+to+AI+Engineer+%28CV%29+internships" alt="Typing intro" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Ho_Chi_Minh_City-7B2FF7?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/🎓-HCMUS_'27-00A3FF?style=flat-square" alt="HCMUS" />
-  <img src="https://img.shields.io/badge/🚗-AI_Thực_Chiến_K4-00C2D1?style=flat-square" alt="AI Thực Chiến K4" />
-  <img src="https://img.shields.io/badge/🟢-Open_to_internships-2EA44F?style=flat-square" alt="Open to internships" />
+  <img src="https://img.shields.io/badge/🚗-AI_in_Action_K4-00C2D1?style=flat-square" alt="AI in Action K4" />
+  <img src="https://img.shields.io/badge/🟢-Open_to_AI_Engineer_(CV)_internships-2EA44F?style=flat-square" alt="Open to AI Engineer (CV) internships" />
   <img src="https://komarev.com/ghpvc/?username=doananhquan26072005&label=Profile%20views&color=7b2ff7&style=flat-square" alt="Profile views" />
 </p>
 
@@ -18,15 +18,16 @@
 
 ```python
 class DoanAnhQuan:
-    """Math & CS senior who builds perception systems and counts false alarms for fun."""
+    """AI engineer in the making: computer vision first, false alarms counted for fun."""
 
+    role = "AI Engineer · Computer Vision"
     based_in = "Ho Chi Minh City, Vietnam 🇻🇳"
     education = {
-        "HCMUS, VNU-HCM": "B.Sc. Math & CS (Data Science) · 2023 – 2027 · GPA 3.63/4.0",
-        "AI Thực Chiến K4": "VinUni × Vingroup · Track 4: Perception for AD & Robotics",
+        "HCMUS, VNU-HCM": "B.Sc. Math & CS · 2023 – 2027 · GPA 3.63/4.0",
+        "AI in Action K4": "VinUni × Vingroup · Track 4: Perception for AD & Robotics",
     }
     working_on = ["DriverGuard 🚗💤", "Vietnamese Sign Language recognition 🤟"]
-    looking_for = ["Perception / Autonomous Driving", "Computer Vision", "AI Engineer / LLM"]
+    looking_for = ["AI Engineer (Computer Vision)", "Perception / Autonomous Driving"]
     speaks = {"Vietnamese": "native", "English": "TOEIC L&R 870"}
 
     def evaluate(self, model):
@@ -36,17 +37,17 @@ class DoanAnhQuan:
 
 ## 🔭 Right now (Oct 2026)
 
-- 🚗 Joined **AI Thực Chiến** cohort 4 (VinUni × Vingroup), a 12-week full-time applied AI program, on **Track 4: Perception for Autonomous Driving & Robotics**
+- 🚗 Joined **AI in Action** cohort 4 (VinUni × Vingroup), a 12-week full-time applied AI program, on **Track 4: Perception for Autonomous Driving & Robotics**
 - 💤 Shipping **DriverGuard**, our build-phase project: an on-device driver monitoring system
 - 🤟 Running experiments for my graduation thesis on **Vietnamese Sign Language** recognition
-- 🔍 Looking for an **internship** in perception / autonomous driving, computer vision, or AI engineering
+- 🔍 Looking for an **AI Engineer internship** focused on computer vision, from model to deployed product (perception / autonomous driving is a big plus)
 
 ---
 
 ## 🛠️ Featured projects
 
 ### 🚗 DriverGuard: on-device driver drowsiness & distraction monitoring
-`team of 4 · main contributor · AI Thực Chiến build phase · 2026`
+`team of 4 · main contributor · AI in Action build phase · 2026`
 
 [![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/3y0aOBudGyk)
 [![Live](https://img.shields.io/badge/Live-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)](https://c4-app-135.up.railway.app)
@@ -83,7 +84,7 @@ class DoanAnhQuan:
 - KNN (k=5) on embeddings, so a new sign class can be added **without retraining**
 - 🎯 Accuracy **79.3%** · macro F1 **0.806** on GTSRB test (12,630 images, 43 classes)
 
-### 🧪 AI Thực Chiến labs
+### 🧪 AI in Action labs
 [repo](https://github.com/doananhquan26072005/ai-thuc-chien-k4) · daily lab forks live on my cohort account [@DAQuan-VinAI](https://github.com/DAQuan-VinAI)
 
 - **Phase 1:** LLM APIs, agents & tool calling, RAG, multi-agent with MCP / A2A, data observability, guardrails with red team vs. blue team, cloud deployment, LLMOps, AI evaluation
